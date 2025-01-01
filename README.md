@@ -2,6 +2,9 @@
 ## Project Overview
 The Housing Affordability dashboard is designed to analyze and visualize the relationship between housing prices and income distribution throughout Ireland. The goal is to provide stakeholders, policymakers, and the general public with a better understanding of regional housing affordability and economic disparity.
 
+- Website Link: https://kayleejacq.shinyapps.io/Housing-Affordability/
+- Screencast Link: https://youtu.be/lNf6QQWtSD4
+
 ## Features:
 ### 1. Housing Price Distribution
 - Filters: Customize the dataset based on County, Price Range, VAT Exclusive, Full Market Price, and House Description.
