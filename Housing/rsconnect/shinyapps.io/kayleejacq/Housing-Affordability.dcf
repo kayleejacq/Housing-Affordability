@@ -1,0 +1,12 @@
+name: Housing-Affordability
+title: Housing-Affordability
+username: kayleejacq
+account: kayleejacq
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13595374
+bundleId: 9518707
+url: https://kayleejacq.shinyapps.io/Housing-Affordability/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
